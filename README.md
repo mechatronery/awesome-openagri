@@ -44,8 +44,8 @@ and here:  https://horizon-openagri.eu/external-sips/
 - [SFS SmartFeed Edge Processing Software](https://github.com/inokron-doo/OA-LocalNodeREDsetup) - Collects and processes on-farm feed and environmental data, with local storage and cloud synchronisation.
 - [SFS SmartFeed Web App](https://github.com/inokron-doo/OA-Cloud-Frontend) - React, TypeScript, and Vite dashboard for SmartFeed monitoring and analytics.
 - [SFS LoRa Sensor Node Firmware](https://github.com/inokron-doo/OA-Sensor) - Monitors feed levels, temperature, and humidity for LoRa-enabled livestock feeding systems.
-- [SCIBee Beehive Data Aggregator](https://github.com/mechatronery/scibee/blob/main/SCIBee_Data_Aggregator/scibee_aggregator.md) - Organises beehive information based on sensor data, weather-based risk assessments, and local community observations.
-- [SCIBee Beehive Data Evaluator](https://github.com/mechatronery/scibee/blob/main/SCIBee_Evaluator/scibee_evaluator.md) - Uses a locally hosted Qwen language model to evaluate aggregated beehive observations, assess colony conditions and potential risks, and generate summaries with recommended actions.
+- SCIBee Beehive Data Aggregator - Aggregates and organises hive and environmental sensor data across the SCIBee platform.
+- SCIBee Beehive Data Evaluator - Analyses beehive monitoring data to assess colony performance, health, and environmental impacts.
 - SCIBee Community Data Hub - Integrates sensor networks, telemetry, and analytics for real-time colony-health assessment.
 
 ## Data Models & APIs
@@ -67,7 +67,7 @@ No tools are currently listed in this category.
 - [Custom 3D printed enclosure - Drone-Mounted Edge Computing Enclosure](https://github.com/ilvo-openagri) - 3D-printed UAV enclosure for edge-computing and sensing components.
 - [SFS LoRa Sensor Network Node](https://github.com/inokron-doo/OA-HWcomponents) - Dual-role LoRa node for feed-level and microclimate monitoring.
 - SCIBee Beehive Base Controller - Embedded controller for sensor management, telemetry collection, and device communication.
-- SCIBee Beehive Base Structure - Smart beehive framework for integrating monitoring sensors and IoT equipment.
+- [SCIBee Beehive Base Structure](https://github.com/mechatronery/scibee/blob/main/SCIBee_Base/scibee_base_stand.md) - Provides a structural platform for three honeybee colonies and a separate control-system hive, integrating load cells for hive weighing and a solar power supply.
 - SCIBee Beehive Entrance Counter - Automated system for measuring hive ingress and egress activity.
 - SCIBee Visual Varroa Detector - Vision-based hardware platform for Varroa-mite detection and hive-health assessment.
 
