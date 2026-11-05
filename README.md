@@ -44,8 +44,8 @@ and here:  https://horizon-openagri.eu/external-sips/
 - [SFS SmartFeed Edge Processing Software](https://github.com/inokron-doo/OA-LocalNodeREDsetup) - Collects and processes on-farm feed and environmental data, with local storage and cloud synchronisation.
 - [SFS SmartFeed Web App](https://github.com/inokron-doo/OA-Cloud-Frontend) - React, TypeScript, and Vite dashboard for SmartFeed monitoring and analytics.
 - [SFS LoRa Sensor Node Firmware](https://github.com/inokron-doo/OA-Sensor) - Monitors feed levels, temperature, and humidity for LoRa-enabled livestock feeding systems.
-- [SCIBee Beehive Data Aggregator](https://github.com/mechatronery/scibee/blob/main/SCIBee_Data_Aggregator/scibee_aggregator.md) - Organises beehive information based on sensor data, weather-based risk assessments, and local community observations.
-- [SCIBee Beehive Data Evaluator](https://github.com/mechatronery/scibee/blob/main/SCIBee_Evaluator/scibee_evaluator.md) - Uses a locally hosted Qwen language model to evaluate aggregated beehive observations, assess colony conditions and potential risks, and generate summaries with recommended actions.
+- SCIBee Beehive Data Aggregator - Aggregates and organises hive and environmental sensor data across the SCIBee platform.
+- SCIBee Beehive Data Evaluator - Analyses beehive monitoring data to assess colony performance, health, and environmental impacts.
 - SCIBee Community Data Hub - Integrates sensor networks, telemetry, and analytics for real-time colony-health assessment.
 
 ## Data Models & APIs
@@ -77,7 +77,7 @@ No tools are currently listed in this category.
 - [MOSIC – Modular Open-Source Irrigation Controller](https://github.com/altsol/mosic) - Modular irrigation-management solution for monitoring and controlling precision-irrigation systems.
 - [Somatic Cell Count](https://doi.org/10.5281/zenodo.22748856) - Data resource of somatic-cell-count records and metadata for dairy health and mastitis monitoring.
 - [Estrus detection](https://doi.org/10.5281/zenodo.22748342) - Data resource of estrus observations and metadata for reproductive-status classification.
-- SCIBee Varroa Mite Images - Annotated bee images with and without Varroa mites for AI detection and colony-health monitoring.
+- [SCIBee Honeybee Entrance Corridor Image Dataset](https://ieee-dataport.org/documents/scibee-honeybee-entrance-corridor-image-dataset-object-detection-precision-beekeeping) - Provides 1,879 field-acquired images of honeybees in a beehive entrance corridor, annotated with COCO-format bounding boxes.
 
 ## Standards & Interoperability
 
